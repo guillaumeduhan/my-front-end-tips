@@ -7,4 +7,4 @@ By Guillaume Duhan, Senior Front-End Developer.
 
 ### Dates
 
-[Dayjs](https://day.js.org/en/) *best moment alternative*, **02/13/2021**
+[Dayjs](https://day.js.org/en/) - *best moment alternative*, **02/13/2021**
